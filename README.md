@@ -18,7 +18,5 @@ Once an order has been placed the application checks to see if the store has eno
 
 However, if the store *does* have enough of the product, It will fulfill the user’s order showing the total price and quantity of the order as well as updating the SQL database to reflect the new quantity. 
 
-**FUNCTIONALITY**  
-[View video of working app here](https://drive.google.com/file/d/1kNMZyN8bVI9k4zuJZfquy2MBP_vk1Dwd/view)
 
-![Screen Shot](Capture.PNG)
+
